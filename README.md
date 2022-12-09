@@ -1,2 +1,2 @@
 # Video-Game-Quiz
-Short 5 question video game quiz created using replit and python.
+I used python to create a short 5 multiple-choice question quiz game using the IDE, replit. I incorporated a simple point system that tracks the users process, and adds a point if they answer the queston correctly. A short message will display after each question to notify whether the user answered the question correctly or incorrectly. After completing the 5 questions, the user will receive their percentage score along with a small message that states the number of questions they've answered correctly. This game does not loop, and will only be ran once, this was a personal choice as the game is meant to be short and concise.
